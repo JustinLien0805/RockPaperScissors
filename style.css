@@ -54,6 +54,8 @@ section {
   transform: translate(-50%, -50%);
   transition: opacity 0.5s ease 0.5s;
 }
+.t32{
+}
 .winner {
   color: azure;
   text-align: center;
